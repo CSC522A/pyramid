@@ -40,8 +40,8 @@ Getting Started
 
 - Run your project's tests.
 
-    env/bin/pytest
+    pyramid_blogr/env/bin/pytest
 
 - Run your project.
 
-    env/bin/pserve development.ini
+    pyramid_blogr/env/bin/pserve development.ini
